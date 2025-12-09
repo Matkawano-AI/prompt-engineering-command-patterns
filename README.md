@@ -40,3 +40,5 @@ This approach improves:
 ## Examples
 
 - [Naive vs Structured Prompt](prompts/naive-vs-structured.md)
+- [Role–Task–Constraint Pattern](prompts/role-task-constraint.md)
+
