@@ -42,4 +42,4 @@ This approach improves:
 - [Naive vs Structured Prompt](prompts/naive-vs-structured.md)
 - [Role–Task–Constraint Pattern](prompts/role-task-constraint.md)
 - [Plan → Execute Pattern](prompts/plan-then-execute.md)
-
+- [Self-Check / Validation Pattern](prompts/self-check-validation.md)
