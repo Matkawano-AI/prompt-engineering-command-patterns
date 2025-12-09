@@ -43,3 +43,17 @@ This approach improves:
 - [Role–Task–Constraint Pattern](prompts/role-task-constraint.md)
 - [Plan → Execute Pattern](prompts/plan-then-execute.md)
 - [Self-Check / Validation Pattern](prompts/self-check-validation.md)
+
+
+## Why This Repository Matters
+
+This repository demonstrates how prompt engineering can be treated as a
+**disciplined instructional design process**, not trial-and-error.
+
+The patterns documented here are intended to:
+- Improve reliability and consistency of LLM outputs
+- Reduce ambiguity and hallucinations
+- Support AI-assisted workflows and decision-making
+
+These patterns form the foundation for more complex AI systems and automations.
+  
