@@ -36,3 +36,7 @@ This approach improves:
 - Output consistency
 - Interpretability
 - Reusability across workflows
+
+## Examples
+
+- [Naive vs Structured Prompt](prompts/naive-vs-structured.md)
